@@ -4,8 +4,8 @@ from datetime import datetime
 
 class NavixyFuelManager:
     def __init__(self, username, password):
-        self.api_url = "https://api.navixy.com/v2"
-        self.dwh_url = "https://api.eu.navixy.com/dwh/v1"
+        self.api_url = ""
+        self.dwh_url = ""
         self.username = username
         self.password = password
         self.session_hash = None
