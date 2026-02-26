@@ -12,4 +12,9 @@ I implemented this for one of the biggest mining companies in Africa, across the
 
  ## HOW TO USE THE TOOL
  1. Open your Command Line Interface
- 2. Run the program
+ 2. Run the program "python fuel-tool.py
+ 3. Login
+ 4. Select the options to use the tool
+
+
+I hope you enjoy using this!
